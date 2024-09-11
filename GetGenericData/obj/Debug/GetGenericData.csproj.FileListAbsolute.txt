@@ -1,0 +1,6 @@
+E:\MVC App\GetGenericData\GetGenericData\bin\Debug\GetGenericData.exe.config
+E:\MVC App\GetGenericData\GetGenericData\bin\Debug\GetGenericData.exe
+E:\MVC App\GetGenericData\GetGenericData\bin\Debug\GetGenericData.pdb
+E:\MVC App\GetGenericData\GetGenericData\obj\Debug\GetGenericData.csprojResolveAssemblyReference.cache
+E:\MVC App\GetGenericData\GetGenericData\obj\Debug\GetGenericData.exe
+E:\MVC App\GetGenericData\GetGenericData\obj\Debug\GetGenericData.pdb
